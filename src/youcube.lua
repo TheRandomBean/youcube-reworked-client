@@ -389,7 +389,7 @@ local function play(url)
         else
             new_line()
         end
-    until data.action == "media"
+    until data.action == "media" or data.action == "error"
 
     if data.action == "error" then
         error(data.message)
