@@ -6,11 +6,9 @@
 ![+](.README/plus.svg)
 [![Computronics Version: 0.1.0+](https://img.shields.io/badge/Computronics-0.1.0+-green?style=for-the-badge)](https://wiki.vexatos.com/wiki:computronics)
 
-[![Page deployment](https://img.shields.io/github/actions/workflow/status/CC-YouCube/client/deploy-page.yml?branch=main&label=Page%20deployment&logo=github&style=for-the-badge)](https://github.com/CC-YouCube/client/actions/workflows/deploy-page.yml)
-[![Illuaminate lint](https://img.shields.io/github/actions/workflow/status/CC-YouCube/client/illuaminate-lint.yml?branch=main&label=Illuaminate%20lint&logo=github&style=for-the-badge)](https://github.com/CC-YouCube/client/actions/workflows/illuaminate-lint.yml)
 
 YouCube streams media from services like YouTube to [ComputerCraft: Tweaked](https://github.com/cc-tweaked/CC-Tweaked). \
-**Project Status: Proof of concept**
+**Project Status: Work in progress**
 
 ![preview](.README/preview-client.png)
 
@@ -41,11 +39,6 @@ All libraries that are used by the [client](https://github.com/Commandcracker/Yo
 | [semver](https://github.com/kikito/semver.lua)                                                        |
 | [youcubeapi](https://github.com/Commandcracker/YouCube/blob/main/client/lib/youcubeapi.lua)           |
 | [string_pack](https://gist.github.com/MCJack123/d5973e4d8b7e46991c5f99ac4b076aec)                     |
-
-### UnicornPKG (Experimental)
-
-YouCube can be installed with [unicornpkg](https://unicornpkg.madefor.cc/). \
-Just run `hoof install youcube` to install it.
 
 ### LevelOS / lStore
 
