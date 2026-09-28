@@ -21,13 +21,7 @@ YouCube streams media from services like YouTube to [ComputerCraft: Tweaked](htt
 The client can be installed by running the following command:
 
 ```shell
-pastebin run swsmNAf7
-```
-
-or
-
-```shell
-wget run https://raw.githubusercontent.com/CC-YouCube/installer/main/src/installer.lua
+wget run https://raw.githubusercontent.com/TheRandomBean/youcube-reworked-installer/refs/heads/main/src/installer.lua
 ```
 
 ### Starting the Client
